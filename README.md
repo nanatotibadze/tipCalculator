@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/nanatotibadze/tipCalculator/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ((https://tip-calculator-six-fawn.vercel.app/)
 
 ## My process
 
