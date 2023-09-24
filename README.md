@@ -12,8 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./![tip calculator](https://github.com/nanatotibadze/tipCalculator/assets/106735126/02049c50-4f5b-4d37-b884-92824cb689dc)
-)
+/![tip calculator](https://github.com/nanatotibadze/tipCalculator/assets/106735126/02049c50-4f5b-4d37-b884-92824cb689dc
 
 ### Links
 
